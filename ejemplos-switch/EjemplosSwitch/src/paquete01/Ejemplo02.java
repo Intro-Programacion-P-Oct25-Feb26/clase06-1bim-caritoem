@@ -1,4 +1,4 @@
-/*
+2/*
 *   Generar un programa que permita ingresar el número de día de la semana;
 *   (1 - 7)
 *   Si el usuario ingresa el 1, debe presentar el mensaje: Día 1  es Lunes
